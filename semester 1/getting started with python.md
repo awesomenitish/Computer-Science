@@ -26,3 +26,5 @@ Python is an interpreted, high-level, general-purpose programming language. Crea
 ### See Also
 * Articles which might be useful
 * Career related article links
+### other resources
++ [Python  resources](https://frontbench.xyz/coding-resources/python)

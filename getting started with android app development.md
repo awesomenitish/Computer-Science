@@ -26,7 +26,8 @@ You can download the latest version of JDK(Java SE Development Kit) including JR
   * [Tutorials Point](https://www.tutorialspoint.com/android/)
  
  ## Other Resources
- [Other Resources](https://frontbench.xyz/coding-resources/android)
+ * [Other Resources](https://frontbench.xyz/coding-resources/android)
+ * [Second Resource](https://github.com/qybpt/A-to-Z-Resources-for-Students/blob/master/Android/Android.md)
  
  ## See Also
   * Related Articles

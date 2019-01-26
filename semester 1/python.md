@@ -11,11 +11,12 @@
        
 ----------------------------------------
 * ## Where to learn?
-       * [Exploring Python](https://drive.google.com/open?id=17B_sPHGLgqGpvwP2lbNvAFcdyKHW1v-Y)
-       * [Python Programs](https://drive.google.com/open?id=1pYFcra0R23nMQWbyj5A2u5gCOel93EN0)
-       * [paper](https://drive.google.com/open?id=1aWWLT5M8M4FGSjSP_LwqUeJSiRWeZWVx)
-       * [Code Academy](https://www.codecademy.com/learn/learn-python)
-       * [w3schools](https://www.w3schools.com/python/)
+        [Exploring Python](https://drive.google.com/open?id=17B_sPHGLgqGpvwP2lbNvAFcdyKHW1v-Y)
+        [Python Programs](https://drive.google.com/open?id=1pYFcra0R23nMQWbyj5A2u5gCOel93EN0)
+        [paper](https://drive.google.com/open?id=1aWWLT5M8M4FGSjSP_LwqUeJSiRWeZWVx)
+        [Code Academy](https://www.codecademy.com/learn/learn-python)
+         [w3schools](https://www.w3schools.com/python/)
+       
 ----------------------------------------
 * ## See also
      * [Projects](https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/)

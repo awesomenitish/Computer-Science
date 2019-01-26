@@ -5,9 +5,3 @@ This repository contains study resources which might be useful for computer scie
  * [Github](https://github.com/qybpt/A-to-Z-Resources-for-Students)
  * [wncc-iitb](https://wncc-iitb.org/wiki/index.php/Special:AllPages)
  * [Frontbench](https://frontbench.xyz/coding-resources)
- * [Nitish's Drive](https://twitter.com/qybpt)
-
-##  Contributor
- * Nitish Bhardwaj
- * Dharm Singh
- * Kushagra 

@@ -5,6 +5,8 @@ Database is a collection of inter-related data which helps in efficient retrieva
 + ## WHAT IS DATA BASE MANAGEMENT SYSTEM?
 A database management system (DBMS) is system software for creating and managing databases. The DBMS provides users and programmers with a systematic way to create, retrieve, update and manage data.e.g., *MySQL*, *PostgreSQL*, *Microsoft Access*, *SQL Server*, *FileMaker*, *Oracle*, *RDBMS*, *dBASE*, *Clipper*, and *FoxPro*.
 + ## Why learn DBMS?
+     [Why learn sql](https://www.pluralsight.com/blog/software-development/5-reasons-to-learn-sql)
+    
 * ## WHERE TO START?
   + [Youtube_Tutorials](https://www.youtube.com/playlist?list=PL7ersPsTyYt1ebhCAv0eLaQE-urdmELIx)
   

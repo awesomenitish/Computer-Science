@@ -8,7 +8,7 @@ A database management system (DBMS) is system software for creating and managing
      [Why learn sql](https://www.pluralsight.com/blog/software-development/5-reasons-to-learn-sql)
     
 * ## WHERE TO START?
-  + [Youtube_Tutorials](https://www.youtube.com/playlist?list=PL7ersPsTyYt1ebhCAv0eLaQE-urdmELIx)
+  + [Youtube_Tutorials](https://www.youtube.com/watch?v=eTiP-H9GQ30&list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV)
   
   + [Navathe](https://drive.google.com/open?id=14t3T6ljsM75wa_qMJs5zDqIeZlJ_MkwO)
   

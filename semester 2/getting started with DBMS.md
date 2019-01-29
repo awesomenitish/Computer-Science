@@ -14,9 +14,14 @@ A database management system (DBMS) is system software for creating and managing
   
   + [Previous Year Paper](https://drive.google.com/open?id=1VPq9ggHWPdVZmpTMqngjMkR1ZCxVyzov)
   
-  + ## See Also
-         + [w3schools](https://www.w3schools.in/dbms "w3schools")
+ + ## See Also
+  
+  + [Udemy](https://www.udemy.com/complete-mysql-database-course-from-zero-to-hero/) 
+  
+  + [w3schools](https://www.w3schools.in/dbms "w3schools")
          
-         + [geeksforgeeks](https://www.geeksforgeeks.org/database-management-system-introduction-set-1/) 
-  curated by kushagra
+  + [geeksforgeeks](https://www.geeksforgeeks.org/database-management-system-introduction-set-1/)
+         
+  
+  -curated by kushagra & Dhrm
 
